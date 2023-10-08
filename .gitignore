@@ -1,2 +1,5 @@
 # dir 不需要提交的目录
 /.history
+
+test.c
+*.exe
